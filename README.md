@@ -48,9 +48,9 @@ git commit -m "chore: update agent-skills submodule"
 
 This repo uses [Release Please](https://github.com/googleapis/release-please) for automated releases.
 
-1. Merge PRs - use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commits that should trigger a release
+1. Merge commits with `feat:` or `fix:` prefixes to trigger a release (see [How should I write my commits?](https://github.com/googleapis/release-please#how-should-i-write-my-commits))
 2. Release Please opens a "Release PR" with version bump and changelog
 3. Merge the Release PR to publish
-4. The package workflow uploads `supabase-gemini-extension.tar.gz` to the GitHub release
+4. `supabase-gemini-extension.tar.gz` is uploaded to the GitHub release
 
 Note: Release Please is configured to only bump patch versions (0.1.x) until project is more stable.
