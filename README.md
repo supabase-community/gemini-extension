@@ -5,16 +5,22 @@ The Supabase extension for [Gemini CLI](https://github.com/google-gemini/gemini-
 ## Installation
 
 ```bash
-gemini extensions install supabase-community/gemini-extension
+gemini extensions install https://github.com/supabase-community/gemini-extension
 ```
 
 ## What's Included
 
-- **MCP Server** — Remote connection to [mcp.supabase.com](https://supabase.com/docs/guides/ai/mcp-server) for project management, SQL execution, migrations, and more
+- **MCP Server** — Remote connection to the [Supabase MCP server](https://supabase.com/mcp) for project management, SQL execution, migrations, and more
 - **Skills** — Agent skills from [supabase/agent-skills](https://github.com/supabase/agent-skills) (e.g. `postgres-best-practices`)
 - **Context** — `SUPABASE.md` with CLI usage patterns and best practices
 
 ## Development
+
+Install development tools with [mise](https://mise.jdx.dev/):
+
+```
+mise install
+```
 
 This repo uses a git submodule for shared agent skills.
 
