@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/supabase-community/gemini-extension/compare/v0.1.1...v0.1.2) (2026-04-14)
+
+
+### Features
+
+* add supabase skill ([0f76dc4](https://github.com/supabase-community/gemini-extension/commit/0f76dc4d9164e466df41a0565c13a0b88d4ec82e))
+
 ## [0.1.1](https://github.com/supabase-community/gemini-extension/compare/v0.1.0...v0.1.1) (2026-02-04)
 
 
