@@ -5,7 +5,7 @@
   "contextFileName": "SUPABASE.md",
   "mcpServers": {
     "supabase": {
-      "httpUrl": "https://mcp.supabase.com/mcp"
+      "httpUrl": "https://mcp.supabase.com/mcp?utm_source=gemini-extension"
     }
   }
 }
