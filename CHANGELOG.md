@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/supabase-community/gemini-extension/compare/v0.1.2...v0.1.3) (2026-04-19)
+
+
+### Features
+
+* add utm_source to MCP URL ([#16](https://github.com/supabase-community/gemini-extension/issues/16)) ([9dbffe0](https://github.com/supabase-community/gemini-extension/commit/9dbffe0afd4bbcab0d773fb61498b2ad77f34a57))
+
 ## [0.1.2](https://github.com/supabase-community/gemini-extension/compare/v0.1.1...v0.1.2) (2026-04-14)
 
 
