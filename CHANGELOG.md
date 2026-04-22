@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/supabase-community/gemini-extension/compare/v0.1.3...v0.1.4) (2026-04-22)
+
+
+### Features
+
+* add X-Source-Name/Version headers to MCP server config ([#19](https://github.com/supabase-community/gemini-extension/issues/19)) ([ba4f3ee](https://github.com/supabase-community/gemini-extension/commit/ba4f3eebf357e14c7ab10842a99d4d7ed953753f))
+* update X-Source-Version header in gemini-extension.json on release ([#21](https://github.com/supabase-community/gemini-extension/issues/21)) ([63db029](https://github.com/supabase-community/gemini-extension/commit/63db029911871399e736fec2f60ded617954389a))
+
 ## [0.1.3](https://github.com/supabase-community/gemini-extension/compare/v0.1.2...v0.1.3) (2026-04-19)
 
 
