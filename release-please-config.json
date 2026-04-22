@@ -9,6 +9,11 @@
           "type": "json",
           "path": "gemini-extension.json",
           "jsonpath": "$.version"
+        },
+        {
+          "type": "json",
+          "path": "gemini-extension.json",
+          "jsonpath": "$.mcpServers.supabase.headers[\"X-Source-Version\"]"
         }
       ]
     }
