@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/supabase-community/gemini-extension/compare/v0.1.4...v0.1.5) (2026-04-30)
+
+
+### Features
+
+* bump submodules/agent-skills from `7a646f8` to `e5f7a7c` ([#24](https://github.com/supabase-community/gemini-extension/issues/24)) ([1efe260](https://github.com/supabase-community/gemini-extension/commit/1efe2605f5b7a4fe1042c70da3c673bb46e50b43))
+
 ## [0.1.4](https://github.com/supabase-community/gemini-extension/compare/v0.1.3...v0.1.4) (2026-04-22)
 
 
