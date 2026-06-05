@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/supabase-community/gemini-extension/compare/v0.1.5...v0.1.6) (2026-06-05)
+
+
+### Features
+
+* migrate extension to supabase-community/supabase-plugin ([#35](https://github.com/supabase-community/gemini-extension/issues/35)) ([0438745](https://github.com/supabase-community/gemini-extension/commit/0438745c68ade9efd3341f5458f092c0e2f3c5d1))
+
 ## [0.1.5](https://github.com/supabase-community/gemini-extension/compare/v0.1.4...v0.1.5) (2026-04-30)
 
 
