@@ -2,7 +2,6 @@
   "name": "supabase",
   "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data.",
   "version": "0.1.6",
-  "migratedTo": "https://github.com/supabase-community/supabase-plugin",
   "contextFileName": "SUPABASE.md",
   "mcpServers": {
     "supabase": {
