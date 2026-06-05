@@ -1,7 +1,7 @@
 {
   "name": "supabase",
   "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data.",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "migratedTo": "https://github.com/supabase-community/supabase-plugin",
   "contextFileName": "SUPABASE.md",
   "mcpServers": {
@@ -9,7 +9,7 @@
       "httpUrl": "https://mcp.supabase.com/mcp",
       "headers": {
         "X-Source-Name": "gemini-extension",
-        "X-Source-Version": "0.1.5"
+        "X-Source-Version": "0.1.6"
       }
     }
   }
