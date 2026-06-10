@@ -1,5 +1,7 @@
 # Supabase Extension for Gemini CLI
 
+> **Note:** This extension has been migrated to the [supabase-community/supabase-plugin](https://github.com/supabase-community/supabase-plugin) monorepo. Please refer to that repository for the latest updates.
+
 The Supabase extension for [Gemini CLI](https://github.com/google-gemini/gemini-cli) gives Gemini the tools, skills, and context needed to work effectively with Supabase projects.
 
 ## Installation
